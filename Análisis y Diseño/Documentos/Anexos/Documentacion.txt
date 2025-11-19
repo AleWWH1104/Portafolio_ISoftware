@@ -1,0 +1,11 @@
+Entrevistas.pdf
+
+Este documento reúne los guiones de entrevistas y el análisis detallado de las respuestas de tres perfiles clave dentro de la empresa —inventario, operativo y control de gestión— con el objetivo de comprender cómo actualmente se llevan a cabo los procesos de compras, control de materiales, comunicación interna, supervisión de proyectos y manejo del inventario. A través de sus testimonios, se identifican prácticas, herramientas utilizadas (como Excel y WhatsApp), principales problemas, necesidades y oportunidades de mejora. El propósito general es obtener información real para diseñar un sistema digital que optimice la gestión de inventario, la planificación de proyectos, la logística y la coordinación entre áreas.
+
+Este documento se utilizó durante la etapa de análisis y diseño del sistema, ya que permitió identificar de manera directa las necesidades, problemas y oportunidades dentro de los procesos actuales de inventario, operación y gestión. A partir de estas entrevistas, se obtuvieron insumos esenciales para definir los requerimientos funcionales y estructurar un sistema más eficiente, adecuado y alineado con el flujo real de trabajo de la empresa.
+
+Pruebas a Usuarios.pdf
+
+Incluye la planificación y ejecución de diversas pruebas de usabilidad para una página de marketing, el flujo de inicio de sesión, la navegación global y el módulo de inventario del sistema. Se detallan los objetivos de cada prueba, los métodos utilizados —incluyendo escenarios, métricas, encuestas y el uso de herramientas tecnologicas—. Además, se presentan los resultados de cinco usuarios, identificando hallazgos, dificultades, patrones de uso y recomendaciones de mejora para la experiencia general. En conjunto, el documento permite evaluar la eficacia de la interfaz actual y define oportunidades claras para optimizar la usabilidad en futuros sprints.
+
+Este documento se empleó a mitad del desarrollo de la aplicación para evaluar si el flujo, la navegación y la interacción del usuario coincidían con lo esperado. Las pruebas de usabilidad permitieron detectar fricciones, validar componentes clave y confirmar qué aspectos del diseño funcionaban correctamente, proporcionando retroalimentación crucial para los ajustes y mejoras en las siguientes iteraciones del sistema.
